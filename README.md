@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 I'm interested on all about Computer science, my passion
 - 🎤 Java, C, C++, C#, Python, R, Javascript, Typescript, MySQL, NoSQL, ASM RISC-V, BPML, VHDL
 - 🔧 JavaEE, Spring boot, Android Java, NodeJS, React, ReactJS, NuxtJS, Angular, VueJS, Blender, AdobeXD
-- 🎓 Next step is to master Datascience at the university(In progress...)
+- 🎓 Next step is to master Data Science and AI at the university(In progress...)
 - 🚀 Get started ...
 
 ![This is an image](https://github.githubassets.com/images/mona-whisper.gif)
